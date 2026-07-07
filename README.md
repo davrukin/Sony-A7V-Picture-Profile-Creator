@@ -71,19 +71,19 @@ on this point, and that caution is echoed here.
 
 ### Profiles generated
 
-| Filename | Creative look |
-|----------|---------------|
-| `Sony ILCE-7M5 Camera BW (A7V).dcp` | Black & White |
-| `Sony ILCE-7M5 Camera FL (A7V).dcp` | Flexible (FL) |
-| `Sony ILCE-7M5 Camera FL2 (A7V).dcp` | Flexible 2 |
-| `Sony ILCE-7M5 Camera FL3 (A7V).dcp` | Flexible 3 |
-| `Sony ILCE-7M5 Camera IN (A7V).dcp` | Intense |
-| `Sony ILCE-7M5 Camera NT (A7V).dcp` | Neutral |
-| `Sony ILCE-7M5 Camera PT (A7V).dcp` | Portrait |
-| `Sony ILCE-7M5 Camera SH (A7V).dcp` | Sharpness |
-| `Sony ILCE-7M5 Camera ST (A7V).dcp` | Standard |
-| `Sony ILCE-7M5 Camera VV (A7V).dcp` | Vivid |
-| `Sony ILCE-7M5 Camera VV2 (A7V).dcp` | Vivid 2 |
+| Filename | Creative Look | Abbreviation |
+|----------|---------------|:---:|
+| `Sony ILCE-7M5 Camera BW (A7V).dcp` | Black & White | BW |
+| `Sony ILCE-7M5 Camera FL (A7V).dcp` | Film | FL |
+| `Sony ILCE-7M5 Camera FL2 (A7V).dcp` | Film 2 | FL2 |
+| `Sony ILCE-7M5 Camera FL3 (A7V).dcp` | Film 3 | FL3 |
+| `Sony ILCE-7M5 Camera IN (A7V).dcp` | Instant | IN |
+| `Sony ILCE-7M5 Camera NT (A7V).dcp` | Neutral | NT |
+| `Sony ILCE-7M5 Camera PT (A7V).dcp` | Portrait | PT |
+| `Sony ILCE-7M5 Camera SH (A7V).dcp` | Soft Highkey | SH |
+| `Sony ILCE-7M5 Camera ST (A7V).dcp` | Standard | ST |
+| `Sony ILCE-7M5 Camera VV (A7V).dcp` | Vivid | VV |
+| `Sony ILCE-7M5 Camera VV2 (A7V).dcp` | Vivid 2 | VV2 |
 
 The `(A7V)` suffix means these profiles coexist with any future native Adobe
 profiles for the A7V — they do **not** override anything.
