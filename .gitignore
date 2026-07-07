@@ -1,0 +1,12 @@
+# Generated DCP profiles — personal use only, not for redistribution
+output/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
